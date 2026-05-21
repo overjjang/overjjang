@@ -1,7 +1,5 @@
-## (대충 쩌는 소개문)
-### (대충 코딩하기 싫다는 뜻)
-#### (대충 코딩하는 고딩이라는 뜻)
-##### (대충 게임 좋아한다는 뜻)
+# KAU 26
+# 코딩 좋아하는 청년
 
 <!--
 **overjjang/overjjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
